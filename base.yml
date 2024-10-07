@@ -5,6 +5,10 @@ theme:
   icon:
     logo: material/home
   favicon: null
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.integrate
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
