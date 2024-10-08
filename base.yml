@@ -15,16 +15,16 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-      primary: teal
-      accent: amber
+      primary: indigo
+      accent: teal
 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-      primary: blue grey
-      accent: lime
+      primary: indigo
+      accent: teal
 markdown_extensions:
   - admonition
 extra:
