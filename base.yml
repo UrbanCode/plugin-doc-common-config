@@ -3,7 +3,7 @@ theme:
   language: en
   font: false
   icon:
-    logo: material/home
+    logo: material/arrow-left
   favicon: null
   features:
     - navigation.tabs
@@ -29,3 +29,4 @@ markdown_extensions:
   - admonition
 extra:
   generator: false
+  homepage: https://urbancode.github.io/IBM-UCx-PLUGIN-DOCS/UCD/
