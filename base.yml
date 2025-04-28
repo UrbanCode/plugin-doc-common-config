@@ -9,6 +9,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - toc.integrate
+    - content.tabs.link
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -27,6 +28,9 @@ theme:
       accent: teal
 markdown_extensions:
   - admonition
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
 extra:
   generator: false
   homepage: https://urbancode.github.io/IBM-UCx-PLUGIN-DOCS/UCD/
