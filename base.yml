@@ -10,6 +10,7 @@ theme:
     - navigation.tabs.sticky
     - toc.integrate
     - content.tabs.link
+    - content.code.copy
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
